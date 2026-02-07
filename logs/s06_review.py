@@ -123,5 +123,13 @@ def draw_triangle(size):
 
 draw_triangle(5)
 
-# Draw a 
+# Create a function to draw a pyramid
+
+"""
+    #      4 spaces + 1 * #
+   ###     3 spaces + 3 * #
+  #####    2 spaces + 5 * #
+ #######   1 spaces + 7 * #
+
+"""
 
